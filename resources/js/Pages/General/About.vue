@@ -91,7 +91,7 @@
       </div>
     </section>
 
-    <<section class="py-16 bg-gray-50">
+    <section class="py-16 bg-gray-50">
   <div class="max-w-7xl mx-auto px-4 text-center mb-12">
     <span class="text-blue-600 font-bold tracking-widest uppercase text-sm">We always stand for</span>
     <h2 class="text-3xl font-bold text-gray-900 mt-2">Our Core Values</h2>
